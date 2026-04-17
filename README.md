@@ -32,6 +32,12 @@
   <a href="https://instagram.com/israel.w_"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/3r4rfGQ.png"/></a>
 </p>
 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/israel.w_) 
+ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:israeyob1995@gmail.com )
+
+
+
+
 <p align="center">
   <a href="https://www.buymeacoffee.com/israel.w_"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="israel.w_" /></a>
 </p>
