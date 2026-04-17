@@ -17,7 +17,7 @@
 - 📫 Reach me at **<israeyob1995@gmail.com>**
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Esrael+Worku;Building+Web+and+Mobile+Apps;Learning+AI+and+Databases" alt="Esrael Worku" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Esrael+Worku;Building+Web+Desktop+and+Mobile+Apps;Learning+AI+Databases+and+app+Dev't" alt="Esrael Worku" /></a>
 </p>
 
 <p align="center">
