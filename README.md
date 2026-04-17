@@ -21,19 +21,34 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/israell_w"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/israell_w">
+    <img width="32px" alt="Twitter" title="Twitter" src="https://abs.twimg.com/icons/apple-touch-icon-192x192.png"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/isra-w"><img width="32px" alt="Dev.to" title="Dev.to" src="https://i.imgur.com/mVm29vK.png"/></a>
+  <a href="https://dev.to/isra-w">
+    <img width="32px" alt="Dev.to" title="Dev.to" src="https://cdn.worldvectorlogo.com/logos/devto.svg"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://linkedin.com/in/esrael-worku-873317378"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/wWzX9uB.png"/></a>
+  <a href="https://linkedin.com/in/esrael-worku-873317378">
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://fb.com/iesraelw"><img width="32px" alt="Facebook" title="Facebook" src="https://i.imgur.com/fep1v6M.png"/></a>
+  <a href="https://fb.com/iesraelw">
+    <img width="32px" alt="Facebook" title="Facebook" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/israel.w_"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/3r4rfGQ.png"/></a>
+  <a href="https://instagram.com/israel.w_">
+    <img width="32px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://pinterest.com/israel.w_">
+    <img width="32px" alt="Pinterest" title="Pinterest" src="https://cdn-icons-png.flaticon.com/512/733/733564.png"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:israeyob1995@gmail.com">
+    <img width="32px" alt="Email" title="Email" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
+  </a>
 </p>
-
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/israel.w_) 
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:israeyob1995@gmail.com )
 
 
 
