@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm ESRAEL</h1>
-[![](https://github.com/isra-w/isra-w/blob/main/chat.svg)](https://twitter.com/ishandutta2007)
+[![](https://github.com/isra-w/isra-w/blob/main/chat.svg)]
 <h3 align="center">🧑‍💻 I'm a computer science student interested in website development, application development, databases, algorithms, and AI. I enjoy learning fast and adapting to new challenges.</h3>
 
 <p align="center">
