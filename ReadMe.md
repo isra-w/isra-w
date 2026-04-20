@@ -203,7 +203,10 @@
 </picture>
 
 ###
+
 <br clear="both">
+
+
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app?username=isra-w&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Trophy Graph" /> <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=isra-w&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
