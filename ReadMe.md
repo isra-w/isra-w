@@ -215,13 +215,14 @@
    <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isra-w&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="180" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=isra-w&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isra-w&radius=16&theme=chartreuse-dark&area=false&order=5&hide_border=false" height="330" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isra-w&radius=16&theme=chartreuse-dark&area=false&order=5&hide_border=false" height="330" alt="activity-graph graph"  /><br><br>
+  <img src="https://raw.githubusercontent.com/isra-w/isra-w/output/snake.svg" alt="Snake animation" />
+
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/isra-w/isra-w/output/snake.svg" alt="Snake animation" />
 
 ###
