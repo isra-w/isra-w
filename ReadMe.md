@@ -202,7 +202,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/isra-w/isra-w/output/pacman-contribution-graph.svg">
 </picture>
 
-
+###
 <br clear="both">
 
 <div align="center">
@@ -213,6 +213,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=isra-w&radius=16&theme=chartreuse-dark&area=false&order=5&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
 
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/isra-w/isra-w/output/snake.svg" alt="Snake animation" />
+
+###
