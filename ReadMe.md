@@ -213,9 +213,18 @@
 <div align="center">
 
    <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=isra-w&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="180" alt="languages graph" /> <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isra-w&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isra-w&radius=16&theme=chartreuse-dark&area=false&order=5&hide_border=false" height="330" alt="activity-graph graph"  /><br><br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isra-w" alt="isra-w" /></a> </p>
+
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isra-w&show_icons=true&locale=en&layout=compact" alt="isra-w"&radius=16&theme=chartreuse-dark&area=false&order=5&hide_border=false" height="330" /></p><br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isra-w&show_icons=true&locale=en" alt="isra-w"&radius=16&theme=chartreuse-dark&area=false&order=5&hide_border=false" height="330" /></p><br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isra-w&" alt="isra-w"&radius=16&theme=chartreuse-dark&area=false&order=5&hide_border=false" height="330" /></p>
+<br><br>
   <img src="https://raw.githubusercontent.com/isra-w/isra-w/output/snake.svg" alt="Snake animation" />
 
 </div>
