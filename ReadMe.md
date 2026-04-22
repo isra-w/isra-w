@@ -15,7 +15,6 @@
 - 🌱 I’m currently learning **computer science, programming languages, and modern frameworks**
 - 👯 I’m looking to collaborate on **website and application development**
 - 📫 Reach me at **<israeyob1995@gmail.com>**
-[![trophy](https://vercel.app)](https://github.com/isra-w/gith
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Esrael+Worku;Building+Web+Desktop+and+Mobile+Apps;Learning+AI+Databases+and+app+Dev't" alt="Esrael Worku" /></a>
@@ -206,27 +205,26 @@
 <div align="center">
 <br clear="both">
     <img src="https://github-profile-trophy.vercel.app?username=isra-w&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Trophy Graph" /> <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=isra-w&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
 </div>
 
 ###
 <div align="center">
 
    <br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isra-w" alt="isra-w" /></a> </p>
-
-<p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isra-w&show_icons=true&locale=en&layout=compact" alt="isra-w"&radius=16&theme=chartreuse-dark&area=false&order=5&hide_border=false" height="330" /></p><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isra-w&show_icons=true&locale=en&layout=compact" alt="isra-w"&radius=16&theme=chartreuse-dark&area=false&order=5&hide_border=false" height="330" /></p><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isra-w&show_icons=true&locale=en" alt="isra-w"&radius=16&theme=chartreuse-dark&area=false&order=5&hide_border=false" height="330" /></p><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isra-w&" alt="isra-w"&radius=16&theme=chartreuse-dark&area=false&order=5&hide_border=false" height="330" /></p>
 <br><br>
-  <img src="https://raw.githubusercontent.com/isra-w/isra-w/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/isra-w/isra-w/output/snake.svg" alt="Snake animation" /><br><br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isra-w&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
+###
 </div>
 
 ###
