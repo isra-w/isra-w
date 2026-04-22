@@ -7,18 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=isra-w&label=Profile%20views&color=0e75b6&style=flat" alt="isra-w" />
 </p>
-<div align="center">
 
-<a href="https://github.com/isra-w/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/isra-w/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/isra-w/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/isra-w/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/isra-w/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/isra-w/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/isra-w/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/isra-w/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/isra-w/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/isra-w/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/isra-w/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/isra-w/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/isra-w/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/isra-w/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/isra-w/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/isra-w/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
-
-</div>
 
 </p>
 
