@@ -16,7 +16,6 @@
 - 🌱 I’m currently learning **computer science, programming languages, and modern frameworks**
 - 👯 I’m looking to collaborate on **website and application development**
 - 📫 Reach me at **<israeyob1995@gmail.com>**
-[![trophy](https://vercel.app)](https://github.com/isra-w/)
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Esrael+Worku;Building+Web+Desktop+and+Mobile+Apps;Learning+AI+Databases+and+app+Dev't" alt="Esrael Worku" /></a>
