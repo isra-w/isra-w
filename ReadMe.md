@@ -8,8 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=isra-w&label=Profile%20views&color=0e75b6&style=flat" alt="isra-w" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isra-w&theme=dark" alt="isra-w" /></a>
+
 </p>
 
 - 🔭 I’m currently working on [website development, desktop and mobile apps, and database administration](https://github.com/users/isra-w/projects/5)
