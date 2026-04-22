@@ -213,13 +213,12 @@
    <br>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isra-w&show_icons=true&locale=en&layout=compact" alt="isra-w"&radius=16&theme=chartreuse-dark&area=false&order=5&hide_border=false" height="330" /></p><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isra-w&show_icons=true&locale=en&layout=compact" alt="isra-w"&radius=16&theme=chartreuse-dark&area=false&order=5&hide_border=false" height="330" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isra-w&show_icons=true&locale=en" alt="isra-w"&radius=16&theme=chartreuse-dark&area=false&order=5&hide_border=false" height="330" /></p><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isra-w&" alt="isra-w"&radius=16&theme=chartreuse-dark&area=false&order=5&hide_border=false" height="330" /></p>
-<br><br>
-  <img src="https://raw.githubusercontent.com/isra-w/isra-w/output/snake.svg" alt="Snake animation" /><br><br>
+  <img src="https://raw.githubusercontent.com/isra-w/isra-w/output/snake.svg" alt="Snake animation" />
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=isra-w&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
@@ -230,6 +229,3 @@
 ###
 
 <br clear="both">
-
-
-###
