@@ -8,8 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=isra-w&label=Profile%20views&color=0e75b6&style=flat" alt="isra-w" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isra-w&theme=dark" alt="isra-w" /></a>
+
 </p>
 
 - 🔭 I’m currently working on [website development, desktop and mobile apps, and database administration](https://github.com/users/isra-w/projects/5)
@@ -196,13 +195,14 @@
 </table>
 
 <br clear="both">
-  <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isra-w/isra-w/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isra-w/isra-w/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/isra-w/isra-w/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
+
 <div align="center">
 <br clear="both">
     <img src="https://github-profile-trophy.vercel.app?username=isra-w&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Trophy Graph" /> <br><br>
