@@ -60,8 +60,8 @@
 </div>
 
 <h2 align="center">💻Languages and Tools:</h2>
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<div style="display: flex; align-items: flex-start; align: center; width="90%"">
+<table align="center" >
   <tr>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
@@ -150,30 +150,35 @@
         <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="bootstrap" />
       <br>Photoshop
     </td>
-
  </tr>
 </table>
-
-
-<br clear="both">
-<div align="center">
-   <br>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isra-w&" alt="isra-w"&radius=16&theme=chartreuse-dark&area=false&order=5&hide_border=false" height="330" /></p>
-<table>
-  <td>
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isra-w&show_icons=true&locale=en&layout=compact" alt="isra-w"&radius=16&theme=chartreuse-dark&area=false&order=5&hide_border=false" height="330" /></p>
-  </td>
-  <td>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isra-w&show_icons=true&locale=en" alt="isra-w"&radius=16&theme=chartreuse-dark&area=false&order=5&hide_border=false" height="330" /></p>
-  </td>
-</table>
-  <img src="https://raw.githubusercontent.com/isra-w/isra-w/output/snake.svg" alt="Snake animation" />
+
+<div align="center" border_color="0d1117" >
+  <table align="center">
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isra-w&theme=github_dark&hide_active_border=true&hide_border=true" /></td>
+  
+  <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isra-w&theme=github_dark&hide_active_border=true&hide_border=true" height="400" /></td>
+  </table>
+<br>
+
+  <table align="center" width="100%">
+    <td width="65%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=isra-w&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=0169dd&hide_active_border=true&hide_border=true" height="190"  />
+    </td>
+    <td width="35%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isra-w&layout=donut&theme=algolia&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=0169dd&hide_active_border=true&hide_border=true" height="190" />
+    </td>
+  <table>
+
+
+<div align="center">  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=isra-w&background=0d1117&ring=b23500&fire=ff4500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00bfff&sideLabels=00bfff&dates=ffffff&hide_border=true" height="300" width="100%" />
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isra-w&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isra-w&radius=16&theme=noctis-minimus&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<br clear="both">
+</div>
