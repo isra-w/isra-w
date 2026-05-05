@@ -3,18 +3,12 @@
 <h1 align="center">Hi 👋, I'm ESRAEL</h1>
 <h3 align="center">🧑‍💻 I'm a computer science student interested in website development, Desktop an Mobile application development, Databases and AI..</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=isra-w&label=Profile%20views&color=0e75b6&style=flat" alt="isra-w" />
 </p>
-
-
-</p>
-
 - 🔭 I’m currently working on [website development, desktop and mobile apps, and database administration](https://github.com/users/isra-w/projects/5)
 - 🌱 I’m currently learning **computer science, programming languages, and modern frameworks**
 - 👯 I’m looking to collaborate on **website and application development**
 - 📫 Reach me at **<israeyob1995@gmail.com>**
-
+  
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Esrael+Worku;Building+Web+Desktop+and+Mobile+Apps;Learning+AI+Databases+and+app+Dev't" alt="Esrael Worku" /></a>
 </p>
@@ -54,12 +48,12 @@
 </p> -->
 
 <div align="center">
-  <h3 align="CENTER">TROPHIES:</h3>
-<br clear="both">
+  <h3 align="CENTER">TROPHIES:</h3><br>
     <img src="https://github-profile-trophy.vercel.app?username=isra-w&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Trophy Graph" /> <br><br>
 </div>
 
 <h2 align="center">💻Languages and Tools:</h2>
+
 <div style="display: flex; align-items: flex-start; align: center; width="90%"">
 <table align="center" >
   <tr>
@@ -91,7 +85,6 @@
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
       <br>JAVA
     </td>
-
   </tr>
   <tr>
     <td align="center" width="96">
@@ -178,7 +171,5 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=isra-w&radius=16&theme=noctis-minimus&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
-
-###
 
 </div>
