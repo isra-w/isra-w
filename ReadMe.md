@@ -105,8 +105,8 @@
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Laravel" />
-      <br>Flutter
+        <img src="https://skillicons.dev/icons?i=framer" width="48" height="48" alt="Laravel" />
+      <br>Framer
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
