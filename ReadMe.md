@@ -105,7 +105,7 @@
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=framer" width="48" height="48" alt="Laravel" />
+        <img src="https://skillicons.dev/icons?i=T-SQL" width="48" height="48" alt="Laravel" />
       <br>Framer
     </td>
     <td align="center"  width="96">
