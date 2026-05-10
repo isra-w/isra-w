@@ -167,7 +167,7 @@
 
 ###
 <div align="center">  
-<img src="https://streak-stats.demolab.com?user=Isra-w&locale=en&mode=daily&background=0d1117&ring=b23500&fire=ff4500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00bfff&sideLabels=00bfff&dates=ffffff&hide_border=true" height="300" width="100%" />
+<img src="https://streak-stats.demolab.com?user=Isra-w&theme=shadow-brown&locale=en&mode=daily&background=0d1117&ring=b23500&fire=ff4500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00bfff&sideLabels=00bfff&dates=ffffff&hide_border=true" height="300" width="100%" />
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=isra-w&radius=16&theme=noctis-minimus&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
