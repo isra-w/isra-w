@@ -167,7 +167,7 @@
 
 ###
 <div align="center">  
-  <img src="https://streak-stats.demolab.com?user=Isra-w&locale=en&mode=daily&theme=noctis_minimus&hide_border=true&border_radius=9&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Isra-w&locale=en&mode=daily&theme=noctis_minimus&hide_border=true&border_radius=9&order=3" height="200" alt="streak graph" width="100%"/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=isra-w&radius=16&theme=noctis-minimus&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
