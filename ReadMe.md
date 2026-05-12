@@ -167,7 +167,7 @@
 
 ###
 <div align="center">  
-  <img src="https://streak-stats.demolab.com?user=Isra-w&locale=en&mode=daily&theme=noctis_minimus&hide_border=true&border_radius=9&order=3" height="150" width="100%" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Isra-w&locale=en&mode=daily&theme=noctis_minimus&hide_border=true&border_radius=9&order=3" height="200" alt="streak graph"  />
 </div>
 
 <div align="center">
