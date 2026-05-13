@@ -4,7 +4,7 @@
 <h3 align="center">🧑‍💻 I'm a computer science student interested in website development, Desktop an Mobile application development, Databases and AI..</h3>
 
 </p>
-- 🔭 I’m currently working on [website development, desktop and mobile apps, and database administration](https://github.com/users/isra-w/projects/5)
+- 🔭 I’m currently working on [website development, desktop and mobile apps, and database administration](https://github.com/users/isra-w)
 - 🌱 I’m currently learning **computer science, programming languages, and modern frameworks**
 - 👯 I’m looking to collaborate on **website and application development**
 - 📫 Reach me at **<israeyob1995@gmail.com>**
