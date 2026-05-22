@@ -46,10 +46,9 @@
 <!-- <p align="center">
   <a href="https://www.buymeacoffee.com/israel.w_"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="israel.w_" /></a>
 </p> -->
-
 <div align="center">
   <h3 align="CENTER">TROPHIES:</h3><br>
-    <img src="https://github-profile-trophy.vercel.app?username=isra-w&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Trophy Graph" /> <br><br>
+    <img src="https://github-profile-trophy.vercel.app/?username=isra-w&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Trophy Graph" /> <br><br>
 </div>
 
 <h2 align="center">💻Languages and Tools:</h2>
