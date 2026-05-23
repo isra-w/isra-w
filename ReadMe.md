@@ -172,5 +172,7 @@
 <div align="center" width="100%" >
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=isra-w&radius=16&theme=noctis-minimus&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
-<script type="module" src="https://cdn.jsdelivr.net/npm/@hsablonniere/activity-graph/+esm"></script>
+<img src="https://cdn.jsdelivr.net/npm/@hsablonniere/activity-graph/+esm"
+/>
+
 </div>
