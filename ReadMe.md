@@ -56,7 +56,7 @@
 
 <h2 align="center">💻Languages and Tools:</h2>
 
-<div style="display: flex; align-items: flex-start; align: center; width="90%"">
+<div style="display: flex; align-items: flex-start; align="center">
 <table align="center" >
   <tr>
       <td align="center" width="96">
