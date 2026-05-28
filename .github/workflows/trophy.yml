@@ -17,8 +17,10 @@ jobs:
         with:
           username: isra-w
           output_path: trophy.svg
-          theme: dracula
+          theme: dracula  
           token: ${{ secrets.GITHUB_TOKEN }}
+
+
 
       - name: Commit and Push Trophy File
         run: |
