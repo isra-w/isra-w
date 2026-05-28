@@ -47,7 +47,10 @@
   <a href="https://www.buymeacoffee.com/israel.w_"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="israel.w_" /></a>
 </p> -->
 <div align="center">
-  <h3 align="CENTER">TROPHIES:</h3><br> ![](./trophy.svg)
+  <h3 align="CENTER">TROPHIES:</h3><br> <p align="center">
+  <img src="./trophy.svg" alt="GitHub Trophies" />
+  </p>
+  
   <br><br>
 </div>
 
