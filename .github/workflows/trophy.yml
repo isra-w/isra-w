@@ -1,0 +1,31 @@
+name: Generate GitHub Trophies
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Automatically runs every night at midnight UTC
+  workflow_dispatch:     # Allows you to run this manually anytime
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Trophies SVG
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: isra-w
+          output_path: trophy.svg
+          theme: dracula  
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+
+
+      - name: Commit and Push Trophy File
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@://github.com"
+          git add trophy.svg
+          git commit -m "Update profile trophies" || echo "No changes to commit"
+          git push
